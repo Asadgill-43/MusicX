@@ -1,5 +1,5 @@
-# Musicr - Redefine the Music Player
-**A pretty UI&UX Music Player**
+# MusicX - Redefine the Music Player
+**Android Music Player**
 
 ## Features
 * Dark Theme Style with wallpaper as background
@@ -12,15 +12,6 @@
 * Learn your hobby, automatically create new playlist
 * etc
 
-### Installing
-The app will be available in Google Play Store soon.
-```
-Comming soon
-```
-### APK
-Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/raw/master/musicr.apk)
-```
-https://github.com/dtrung98/Source/raw/master/musicr.apk
 ```
 ## Screenshots
 </br>
@@ -65,14 +56,6 @@ src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-1
   </div>
 </br>
 
-## Authors
-
-* **Le Dinh Trung (ldt)** - *Initial work* - [dtrung98](https://github.com/dtrung98)
-
-
-### License
-
-* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
 
 ### Acknowledgments
 
